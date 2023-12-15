@@ -1,0 +1,16 @@
+{
+    "port": 5000,
+    "ngrok": {
+      "auth_token": "2X5GaJaixWGeLofupsUUc5BrNiR_74KrA3a8Whsr7wGkPXtUh"
+    },
+    "twilio": {
+      "account_sid": "AC3c5ee5a0e9bed2bd729dfd69fa3a8420",
+      "auth_token": "5d0378bc91398311c528e16266a5ab49",
+      "twiml_app_sid": "AP717dbaffc8917d531e5be54a46720b25"
+    },
+    "updates": {
+      "voice_url": "/voice",
+      "status_callback": "/status-callback"
+    }
+  }
+  
